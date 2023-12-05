@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;1,600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Fira Sans', sans-serif;
+
+}
+
+:root{
+  --lighter: linear-gradient(159deg, rgb(194, 164, 164) 0%, rgb(213, 213, 213) 100%);
+  ---background: #95faa5;
+}
+
+body{
+  width: 100%;
+  background-color: var(---background);
+  color: #00ee9f;
+}
+
+img{
+  width: 13vh;
+  height: 11vh;
+}
